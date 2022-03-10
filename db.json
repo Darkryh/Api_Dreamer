@@ -2,6 +2,6 @@
     "server_status" : {
         "id" : 1,
         "app_name" : "Dreamer",
-        "is_in_support_mode" : false
+        "is_in_support_mode" : true
     }
 }
