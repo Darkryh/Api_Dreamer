@@ -3,14 +3,14 @@
         "id" : 1,
         "app_name" : "Dreamer",
         "is_in_support_mode" : false
-    }
+    },
     "publicity" : {
-            "id" : 100000,
-            "title" : "¿Quieres evitar los anuncios - Dreamer?",
-            "content" : "De forma gratuita!. más información en nuestro blog.",
-            "web_page" : "",
-            "icon" : "null",
-            "cover" : "https://a-36.1fichier.com/p268067784",
-            "visibility" : true
-        }
+        "id" : 100000,
+        "title" : "¿Quieres evitar los anuncios - Dreamer?",
+        "content" : "De forma gratuita!. más información en nuestro blog.",
+        "web_page" : "",
+        "icon" : "null",
+        "cover" : "https://a-36.1fichier.com/p268067784",
+        "visibility" : true
+    }
 }
