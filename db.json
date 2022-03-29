@@ -6,12 +6,12 @@
     },
     "publicity" : {
         "id" : 100000,
-        "title" : "¡Rango VIP Gratis POR EL DIA DE HOY!",
-        "content" : "Al ingresar a nuestro Discord. Le escriben un mensaje a Darkryh, el les dara el codigo canjeo. codigo valido por 3 meses de VIP!",
+        "title" : "¡SOLICITA RANGO VIP. POR EL DIA DE HOY!",
+        "content" : "Al ingresar a nuestro Discord. Solicita codigo canjeo. Y evita los anuncios de la app!",
         "web_page" : "https://discord.gg/mvMfenSazJ",
         "icon" : null,
         "cover" : "https://i.ibb.co/Cvj8TL6/discord.jpg",
         "visibility" : true,
-        "tags" : ["Oficial","Dreamer","Comunicado","Rangos","Vip"]
+        "tags" : ["Oficial","Dreamer","Comunicado","Rangos","Vip","Adios Anuncios"]
     }
 }
