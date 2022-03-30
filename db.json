@@ -6,12 +6,12 @@
     },
     "publicity" : {
         "id" : 100000,
-        "title" : "¡SOLICITA RANGO VIP. POR EL DIA DE HOY!",
-        "content" : "Al ingresar a nuestro Discord. Solicita codigo canjeo. Y evita los anuncios de la app!",
-        "web_page" : "https://discord.gg/mvMfenSazJ",
+        "title" : "¿Quieres Evitar Los Anuncios En Dreamer?",
+        "content" : "Se puede realizar de forma gratuita!. Para más información se encuentra en nuestro blog oficial.",
+        "web_page" : "https://eadreference.blogspot.com/2022/03/evitar-anuncios-en-nuestra-aplicacion.html",
         "icon" : null,
-        "cover" : "https://i.ibb.co/Cvj8TL6/discord.jpg",
+        "cover" : "https://i.ibb.co/6nfLSKL/logo-app.png",
         "visibility" : true,
-        "tags" : ["Oficial","Comunicado","Rangos","Vip","Adios Anuncios"]
+        "tags" : ["Oficial","Dreamer","Comunicado"]
     }
 }
