@@ -13,5 +13,9 @@
         "cover" : "https://i.ibb.co/6nfLSKL/logo-app.png",
         "visibility" : true,
         "tags" : ["Oficial","Dreamer","Comunicado"]
-    }
+    }, 
+    "min_version" : {
+        "id" : 1000,
+        "version" : 1.14
+    }   
 }
