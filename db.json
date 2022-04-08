@@ -6,13 +6,13 @@
     },
     "publicity" : {
         "id" : 100000,
-        "title" : "¿Quieres Evitar Los Anuncios En Dreamer?",
-        "content" : "Se puede realizar de forma gratuita!. Para más información se encuentra en nuestro blog oficial.",
-        "web_page" : "https://eadreference.blogspot.com/2022/03/evitar-anuncios-en-nuestra-aplicacion.html",
+        "title" : "¡Nueva Actualización 1.14!",
+        "content" : "Mejoras de optimización para animes extensos (One Piece, Naruto, etc), y nuevas funciones, entre otros.",
+        "web_page" : "https://eadreference.blogspot.com/2022/03/dreamer.html",
         "icon" : null,
-        "cover" : "https://i.ibb.co/6nfLSKL/logo-app.png",
+        "cover" : "https://i.ibb.co/n06tM4v/android-update.jpg",
         "visibility" : true,
-        "tags" : ["Oficial","Dreamer","Comunicado"]
+        "tags" : ["Oficial","Dreamer","Comunicado","Actualización","Mejora"]
     }, 
     "app_status" : {
         "id" : 1000,
