@@ -6,13 +6,13 @@
     },
     "publicity" : {
         "id" : 100000,
-        "title" : "¡Nueva Actualización 1.14!",
-        "content" : "Mejoras de optimización para animes extensos (One Piece, Naruto, etc), y nuevas funciones, entre otros.",
-        "web_page" : "https://eadreference.blogspot.com/2022/03/dreamer.html",
+        "title" : "¡Estamos Disponibles en la PLAYSTORE! ✓",
+        "content" : "Tenemos versión oficial en la playstore, recomiendanos y ayudanos a crecer.",
+        "web_page" : "https://play.google.com/store/apps/details?id=com.ead.project.dreamer",
         "icon" : null,
-        "cover" : "https://i.ibb.co/n06tM4v/android-update.jpg",
+        "cover" : "https://i.ibb.co/DGt7BdZ/playstore.jpg",
         "visibility" : true,
-        "tags" : ["Oficial","Dreamer","Comunicado","Actualización"]
+        "tags" : ["Oficial","PlayStore","Comunicado"]
     }, 
     "app_status" : {
         "id" : 1000,
