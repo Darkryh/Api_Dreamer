@@ -6,13 +6,13 @@
     },
     "publicity" : {
         "id" : 100000,
-        "title" : "¡Estamos Disponibles en la PLAYSTORE! ✓",
-        "content" : "Tenemos versión oficial en la playstore, recomiendanos y ayudanos a crecer.",
-        "web_page" : "https://play.google.com/store/apps/details?id=com.ead.project.dreamer",
+        "title" : "¡Versión 1.15 Disponible!",
+        "content" : "Esta versión nuevas funcionalidades, como compatibilidad con chromecast,variaciones entre otros.",
+        "web_page" : "https://eadreference.blogspot.com/2022/03/dreamer.html",
         "icon" : null,
-        "cover" : "https://i.ibb.co/DGt7BdZ/playstore.jpg",
+        "cover" : "https://i.ibb.co/vcdJDBQ/chromecastcover.jpg",
         "visibility" : true,
-        "tags" : ["Oficial","PlayStore","Comunicado"]
+        "tags" : ["Oficial","Actualización","Comunicado"]
     }, 
     "app_status" : {
         "id" : 1000,
