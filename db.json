@@ -6,8 +6,8 @@
     },
     "publicity" : {
         "id" : 100000,
-        "title" : "¡Versión 1.15 Disponible!",
-        "content" : "Esta versión tiene nuevas funcionalidades, como compatibilidad con chromecast,variaciones entre otros.",
+        "title" : "¡Versión 1.15 Disponible! Compatible con CHROMECAST.",
+        "content" : "Esta versión tiene nuevas funcionalidades, como compatibilidad con chromecast,rediseño entre otros.",
         "web_page" : "https://eadreference.blogspot.com/2022/03/dreamer.html",
         "icon" : null,
         "cover" : "https://i.ibb.co/vcdJDBQ/chromecastcover.jpg",
